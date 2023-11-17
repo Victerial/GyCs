@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b43+ONheKHi1lUl/x9psDThWAKQIeJvR3zt59iTxapzdOspjnCxTekgujMvIQhSq3VUxaKvAF6vVNXZY5054jg==",
+  "dgSpecHash": "wZRlyHfZiFDKgJPcMHWusY2gur+4+1f5ZV0G8QCubWLMHE7s7edzo18RWmE2rYyREvDnUfn+VXu40RtM7tT2tg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mnand\\Downloads\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj",
+  "projectFilePath": "C:\\Sulis\\GyCs\\desktop\\almenu\\04-00-00-wpf-mvvm-design-menu-Victerial-main\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mnand\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\mnand\\.nuget\\packages\\extended.wpf.toolkit\\4.5.1\\extended.wpf.toolkit.4.5.1.nupkg.sha512",

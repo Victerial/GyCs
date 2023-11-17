@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mnand\\Downloads\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj": {}
+    "C:\\Sulis\\GyCs\\desktop\\almenu\\04-00-00-wpf-mvvm-design-menu-Victerial-main\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mnand\\Downloads\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj": {
+    "C:\\Sulis\\GyCs\\desktop\\almenu\\04-00-00-wpf-mvvm-design-menu-Victerial-main\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mnand\\Downloads\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj",
+        "projectUniqueName": "C:\\Sulis\\GyCs\\desktop\\almenu\\04-00-00-wpf-mvvm-design-menu-Victerial-main\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj",
         "projectName": "KretaBasicSchoolSystem.Desktop",
-        "projectPath": "C:\\Users\\mnand\\Downloads\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj",
+        "projectPath": "C:\\Sulis\\GyCs\\desktop\\almenu\\04-00-00-wpf-mvvm-design-menu-Victerial-main\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop.csproj",
         "packagesPath": "C:\\Users\\mnand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mnand\\Downloads\\KretaBasicSchoolSystem.Desktop\\KretaBasicSchoolSystem.Desktop\\obj\\",
+        "outputPath": "C:\\Sulis\\GyCs\\desktop\\almenu\\04-00-00-wpf-mvvm-design-menu-Victerial-main\\KretaBasicSchoolSystem.Desktop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
